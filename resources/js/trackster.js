@@ -22,7 +22,7 @@ Trackster.renderTracks = function(tracks) {
       '<div class="row track">' +
       '  <div class="col-xs-1 col-xs-offset-1 play-button">' +
       '    <a href="'+ track.url + '" target="_blank">' +
-      '      <i class="fa fa-play-circle-o fa-2x"></i>' +
+      '      <i class="fa fa-play-circle fa-2x"></i>' +
       '    </a>' +
       '  </div>' +
       '  <div class="col-xs-4">' + track.name + '</div>' +
